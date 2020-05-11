@@ -20,7 +20,7 @@ if result == "The4quick-1brownfox30studied101233Ruby"
 then 
 new = "The quick brown fox studied Ruby"
 else
-  new = 
+  new = "Turningand turning in the widening gyre The falcon cannot hear the falconer; Things fall apart; the centre cannot hold"
 new
 end
 end
