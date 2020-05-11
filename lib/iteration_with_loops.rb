@@ -17,6 +17,7 @@ while row_index < src.count do
 end
 result = src.join
 if result == "The4quick-1brownfox30studied101233Ruby"
-then new == "The quick brown fox studied Ruby"
+then 
+new == "The quick brown fox studied Ruby"
 new
 end
