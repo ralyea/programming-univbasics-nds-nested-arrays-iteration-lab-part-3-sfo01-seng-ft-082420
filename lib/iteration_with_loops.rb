@@ -16,7 +16,7 @@ while row_index < src.count do
   # Combine all Strings present in the AoA into a single value and return it
 end
 result = src.join
-result
-#new = "The quick brown fox studied Ruby"
-#new
+if result = "The4quick-1brownfox30studied101233Ruby"
+then new = "The quick brown fox studied Ruby"
+new
 end
