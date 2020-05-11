@@ -16,6 +16,6 @@ while row_index < src.count do
   # Combine all Strings present in the AoA into a single value and return it
 end
 result = src.join
-new = result.split[0...-1].join ' ' 
+new = result.gsub(/ *\d+$/, '') 
 new
 end
