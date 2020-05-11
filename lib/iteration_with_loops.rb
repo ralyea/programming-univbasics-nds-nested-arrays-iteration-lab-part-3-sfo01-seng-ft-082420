@@ -17,6 +17,6 @@ while row_index < src.count do
 end
 result = src.join
 result
-new = "The quick brown fox studied Ruby"
-new
+#new = "The quick brown fox studied Ruby"
+#new
 end
