@@ -21,3 +21,4 @@ then
 new == "The quick brown fox studied Ruby"
 new
 end
+end
