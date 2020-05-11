@@ -16,6 +16,7 @@ while row_index < src.count do
   # Combine all Strings present in the AoA into a single value and return it
 end
 result = src.join
+result
 new = "The quick brown fox studied Ruby"
 new
 end
