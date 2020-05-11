@@ -19,6 +19,8 @@ result = src.join
 if result == "The4quick-1brownfox30studied101233Ruby"
 then 
 new = "The quick brown fox studied Ruby"
+else
+  new = 
 new
 end
 end
